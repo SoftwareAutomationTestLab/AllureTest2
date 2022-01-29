@@ -1,0 +1,74 @@
+{
+  "uid" : "28ed2589d1e7b829",
+  "name" : "engine",
+  "fullName" : "com.costa.luiz.testng.AirplaneTest.engine",
+  "historyId" : "341822e7f2eed18edd274a1cbbe3be8b",
+  "time" : {
+    "start" : 1643498233143,
+    "stop" : 1643498233144,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "engine"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.costa.luiz.testng.AirplaneTest"
+  }, {
+    "name" : "host",
+    "value" : "fv-az128-785"
+  }, {
+    "name" : "thread",
+    "value" : "2780@fv-az128-785.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Engine"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "General Electric"
+  }, {
+    "name" : "arg1",
+    "value" : "99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28ed2589d1e7b829.json",
+  "parameterValues" : [ "General Electric", "99" ]
+}
